@@ -1,5 +1,5 @@
 # Traducció dels menus del rellotge Garmin Forerunner 245 al català
-En aquest repositori hi ha el fitxer amb la traducció al català des menus del rellotge Garmin Forerunner 245. Bàsicament el que farem a continuació és substituir l'idioma francès per la traducció al català.
+En aquest repositori hi ha el fitxer amb la traducció al català dels menus del rellotge Garmin Forerunner 245. Bàsicament el que farem a continuació és substituir l'idioma francès per la traducció al català.
 
 ## Instruccions per a la instal·lació
 1. Baixar-se el fitxer FRENCH.LN4 d'aquest repositori a l'ordinador.
